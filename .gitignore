@@ -1,0 +1,37 @@
+target
+target/
+target-eclipse/
+build
+build/
+# backup file from emacs
+*~
+*#
+.#*
+
+# IntelliJ IDE
+*.iml
+.idea
+
+# Netbeans IDE
+nb-configuration.xml
+nbactions.xml
+
+# Sublime Text IDE
+*.sublime-project
+*.sublime-workspace
+
+# Netbeans IDE
+nb-configuration.xml
+nbactions.xml
+
+# Eclipse IDE
+*.project
+*.classpath
+.checkstyle
+.springBeans
+*.settings
+
+# Created by Tomcat plugin?
+catalina.base_IS_UNDEFINED
+
+src/main/webapp/META-INF/context.xml
